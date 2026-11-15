@@ -135,3 +135,16 @@ h1 {
 .card p:last-child {
   margin-bottom: 0;
 }
+
+footer {
+  border-top: 1px solid #2A2C33;
+  padding: 35px 0;
+  margin-top: 30px;
+  font-size: 13px;
+  text-align: center;
+}
+
+.copyright {
+  margin-top: 10px;
+  color: #B8B5AD;
+}
