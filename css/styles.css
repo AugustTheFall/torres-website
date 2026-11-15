@@ -114,3 +114,24 @@ h1 {
   border-radius: 10px;
   border: 1px solid #2A2C33;
 }
+
+.card {
+  background-color: #2A2C33;
+  padding: 25px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+
+.card h3 {
+  color: #E5A93C;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin-bottom: 12px;
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
