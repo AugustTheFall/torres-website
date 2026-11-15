@@ -63,3 +63,13 @@ header {
   color: #E5A93C;
   text-decoration: underline;
 }
+
+section {
+  padding: 50px 0;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
